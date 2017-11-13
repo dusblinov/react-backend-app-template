@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+npm-debug.log
+pm.config.js
+client/public/*
+client/build/result/*
+_pull.sh
+ecosystem.config.js
+client/.env.development
+config/development.js
+uploads
